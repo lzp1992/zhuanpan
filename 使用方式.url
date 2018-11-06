@@ -1,0 +1,12 @@
+1,引入样式:
+<link rel='stylesheet' href='css/rotary.css' />
+
+
+2,引入需要的js:
+<script type='text/javascript' src='js/jquery.min.js'></script>
+<script type='text/javascript' src='js/jquery.cookie.js'></script>
+<script type='text/javascript' src='js/jqueryrotate.js'></script>
+
+
+3,主要逻辑js
+<script type='text/javascript' src='js/index.js'></script>
